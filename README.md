@@ -1,5 +1,5 @@
 # Pygame-Moving-Background-OpenCV
-This script will allow you to adjust the background according to your character's position. Suitable for adventure games, TIP: have a very large map and the player's borders away from the background image coffers.
+This script will allow you to adjust the background according to your character's position. Suitable for adventure games, TIP: use a very large map and set the player's borders away from the background image coffers.
 
 # Knowledge appreciated and modules to install
 
