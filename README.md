@@ -12,3 +12,5 @@ Modules to install:
 pip install pygame
 pip install opencv-python
 ```
+# Example
+ ![alt-text](https://github.com/MB337/Pygame-Moving-Background-OpenCV/blob/master/gif.gif)
