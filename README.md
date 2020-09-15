@@ -14,3 +14,9 @@ pip install opencv-python
 ```
 # Example
  ![alt-text](https://github.com/MB337/Pygame-Moving-Background-OpenCV/blob/master/gif.gif)
+
+# Contact me
+If you have suggestions:
+- Email: mbmatteobianchi@gmail.com
+- Instagram: mbmatteobianchi
+- Twitter: MBMatteobianchi
