@@ -2,7 +2,7 @@ import pygame
 import cv2
 
 
-# We inizialize the pygame
+# We initialize the pygame
 pygame.init()
 
 # We set our window 
